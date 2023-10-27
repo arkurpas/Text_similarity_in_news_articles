@@ -4,7 +4,7 @@ As textual data becomes increasingly prevalent in today's digital world, natural
 
 In this project, I will focus on harnessing NLP to calculate text similarity and show some methods that can be applied for this purpose.
 
-#Database:
+# Database:
 https://www.kaggle.com/datasets/rmisra/news-category-dataset
 
 # Source:
